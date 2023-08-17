@@ -11,5 +11,5 @@ Ingeniería del Software I 2023 correspondiente a 3er año - 2do semestre de Com
 
 ## To do
 
-- Leer capítulos 1 y 3 del libro
-- Leer filminas 1 y 2 (1 del AV 2023 y 2 de la de 2022)
+- Leer capítulo 3 del libro
+- Leer filmina 2
