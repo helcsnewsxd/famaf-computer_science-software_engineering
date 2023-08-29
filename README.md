@@ -9,7 +9,3 @@ Ingeniería del Software I 2023 correspondiente a 3er año - 2do semestre de Com
 - Bibliografía: _Pankaj Jalote: “An Integrated Approach to Software Engineering”, 3ra ed., Springer_
   - <https://drive.google.com/file/d/1BuScF7aSt-VEYB7Fj9VT32d9dQ5M_kqi/view?usp=sharing>
 
-## To do
-
-- Leer capítulo 3 del libro
-- Leer filmina 2
