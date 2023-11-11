@@ -1,0 +1,6 @@
+[submodule "Laboratorio-La-Cosa/backend"]
+	path = Laboratorio-La-Cosa/backend
+	url = git@github.com:stayawaysoftware/backend.git
+[submodule "Laboratorio-La-Cosa/frontend"]
+	path = Laboratorio-La-Cosa/frontend
+	url = git@github.com:stayawaysoftware/frontend.git
